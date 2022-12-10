@@ -1,0 +1,32 @@
+h1{
+    align-items: center;
+    margin-left: 45%;
+    color: magenta;
+}
+h2{
+    margin-left: 50%;
+    color: blue;
+}
+#increment-btn{
+    margin-left: 45%;
+    background-color: red;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200px;
+    color: white;
+}
+#save-btn {
+    margin-left: 45%;
+    margin-top: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: green;
+    border-radius: 5px;
+    width: 200px;
+    color: white;
+}
+#save-el{
+    margin-left: 50%;
+    color: magenta;
+}
